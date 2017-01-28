@@ -1,0 +1,13 @@
+;
+;   file                 : sdaas.def
+;   created              : Sat Jan 28 09:53:03 EST 2017
+;   copyright            : (C) 2002 Jaden
+;
+
+LIBRARY	sdaas
+
+SECTIONS .data READ WRITE
+
+EXPORTS
+	sdaas
+

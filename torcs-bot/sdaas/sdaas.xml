@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    file                 : sdaas.xml
+    created              : Sat Jan 28 09:53:03 EST 2017
+    copyright            : (C) 2002 Jaden
+-->
+
+<!DOCTYPE params SYSTEM "../../libs/tgf/params.dtd">
+<params name="sdaas" type="robotdef">
+  <section name="Robots">
+    <section name="index">
+      <section name="1">
+	<attstr name="name" val="sdaas"></attstr>
+	<attstr name="desc" val=""></attstr>
+	<attstr name="team" val=""></attstr>
+	<attstr name="author" val="Jaden"></attstr>
+	<attstr name="car name" val="acura-nsx-sz"></attstr>
+	<attstr name="category" val="Track-RWD-GrB"></attstr>
+	<attnum name="race number" val="0"></attnum>
+	<attnum name="red" val="1.0"></attnum>
+	<attnum name="green" val="1.0"></attnum>
+	<attnum name="blue" val="1.0"></attnum>
+      </section>
+    </section>
+  </section>
+</params>
